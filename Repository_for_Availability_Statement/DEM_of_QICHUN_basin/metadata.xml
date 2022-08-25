@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xml:lang="zh"><Esri><CreaDate>20220410</CreaDate><CreaTime>16174700</CreaTime><ArcGISFormat>1.0</ArcGISFormat><SyncOnce>TRUE</SyncOnce><DataProperties><lineage><Process ToolSource="d:\arcgis\desktop10.7\ArcToolbox\Toolboxes\Spatial Analyst Tools.tbx\RasterCalculator" Date="20220410" Time="161747">RasterCalculator Con("qcDEM_fill.tif" &lt; 0,0,"qcDEM_fill.tif") D:\1-qichundata\QCtest\qichundem</Process></lineage></DataProperties></Esri></metadata>
